@@ -14,4 +14,4 @@ You will learn :
 
 ###Youtube Introduction
 
-[![Video](http://img.youtube.com/vi/v=FhUiMGbKZfM)/0.jpg)](https://www.youtube.com/watch?v=FhUiMGbKZfM)
+[![Video](http://img.youtube.com/vi/FhUiMGbKZfM/0.jpg)](https://www.youtube.com/watch?v=FhUiMGbKZfM)
